@@ -106,10 +106,10 @@ body > div > header {
 }
 
 #logo {
-  width: 870px;
+  width: 900px;
   height: 127px;
   position: relative;
-  background: transparent url(img/logo.png) no-repeat right;
+  background: transparent url(img/trees.jpg) no-repeat right;
 }
 
 #logo #logo_text {
@@ -226,6 +226,14 @@ nav ul li a:hover {
   overflow: hidden;
 }
 
+/* Tag Cloud */
+.tag-list { list-style: none; }
+.tag-list li { display: inline; margin-right: 20px; }
+.tag-list .tag-0 { font-size: 1.9em; line-height: 1.9em; }
+.tag-list .tag-1 { font-size: 1.6em; line-height: 1.6em; }
+.tag-list .tag-2 { font-size: 1.3em; line-height: 1.3em; }
+.tag-list .tag-3 { font-size: 1.0em; line-height: 1.0em; }
+
 .sidebar {
   float: right;
   width: 178px;
@@ -244,14 +252,15 @@ nav ul li a:hover {
   padding: 0px 0px 2px 0px;
 }
 
-.sidebar li a,.sidebar li a:hover {
-  text-decoration: none;
-  padding: 4px 0px 4px 35px;
-  display: block;
-  background: transparent url(img/arrow.png) no-repeat left center;
-  color: #555;
-  border: none;
-}
+/* .sidebar li a,.sidebar li a:hover {
+ * text-decoration: none;
+ * padding: 4px 0px 4px 35px;
+ * display: block;
+ * background: transparent url(img/arrow.png) no-repeat left center;
+ * color: #555;
+ * border: none;
+ *}
+ */
 
 .sidebar li a.selected,.sidebar li a:hover,.sidebar li a.selected:hover {
   color: #A4AA04;
