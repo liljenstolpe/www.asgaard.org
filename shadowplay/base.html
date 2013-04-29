@@ -68,7 +68,9 @@
       {% block footer %}
       {% endblock %}
       <p>written by <a href="mailto:{{ conf.email }}">{{ conf.author }}</a>
-       | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a></p>
+       | <a href="/colophon/">Colophon</a> | Git commit <a
+    href="https://github.com/liljenstolpe/www.asgaard.org/commit/{{ 
+  conf.git_commit }}">{{ conf.git_commit_short }}</a></p>
     </footer>
   </div>
 </body>

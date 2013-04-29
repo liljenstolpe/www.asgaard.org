@@ -2,15 +2,26 @@
 # This is your config file.  Please write in a valid python syntax!
 # See http://posativ.org//conf.py.html
 
+import subprocess
+
 TITLE = ('Missing the', 'forest')
 
-SITENAME = 'Musings on random topics'
+SITENAME = '(ir)Relevant musings on random topics'
 WWW_ROOT = 'http://www.asgaard.org/'
 
 AUTHOR = 'Christopher Liljenstolpe'
 EMAIL = 'blog@cdl.asgaard.org'
 
 DEPLOY_DIR = 's3://www.asgaard.org/'
+
+LANG = 'en'
+DATE_FORMAT = '%Y-%m-%d, %H.%M'
+strptime = '%Y-%m-%d, %H.%M'
+
+# Added to be able to include the git commit code in the base.html file in shadowplay
+
+GIT_COMMIT_SHORT = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'])
+GIT_COMMIT = subprocess.check_output(['git', 'rev-parse', 'HEAD'])
 
 FILTERS = ['markdown+codehilite(css_class=highlight)', 'hyphenate', 'h1']
 VIEWS = {
@@ -41,7 +52,7 @@ DEFAULT_ORPHANS = 3
 # Tuples are (name, link)
 BLOGROLL = [
     ('Some of my photographs', 'http://gallery.liljenstolpe.org/'),
-    ('My Github repo', 'http://www.github.com/liljenstolpe')
+    ('My Github repos', 'http://www.github.com/liljenstolpe')
 ]
 
 TAG_CLOUD_STEPS = 4
