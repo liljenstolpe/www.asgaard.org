@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>colophon</title>
+  <link media="all" href="/shadowplay.css" rel="stylesheet" />
+  <link href="/favicon.ico" rel="shortcut icon" />
+    <link href="/sitemap.xml" type="application/xml" title="Sitemap">
+  <link href="/" rel="home start" />
+  <link href="/atom/" type="application/atom+xml" rel="alternate" title="Atom Feed" />
+  <link href="/rss/" type="application/rss+xml" rel="alternate" title="RSS Feed" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <meta name="description" content="I&#39;ve decided to start blogging again, and looking..." />
+    <meta name="keywords" content="" />
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="/" rel="home start">Missing the
+              <span class="logo_colour">forest</span>
+          </a></h1>
+          <h2>(ir)Relevant musings on random topics</h2>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/" rel="home start">blog</a></li>
+          <li><a href="/atom/" rel="alternate">atom</a></li>
+          <li><a href="/rss/" rel="alternate">rss</a></li>
+          <li><a href="/articles/" rel="contents">articles</a></li>
+          <li><a href="/about/" tel="author me">about</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="content_header"></div>
+    <div id="site_content">
+      <div class="sidebar">
+        <!-- insert your sidebar items here -->
+        <h3>Tags</h3>
+        <ul class="tag-list">
+        
+          <li class="tag-3"><a href="/tag/education/" rel="tag">education</a></li>
+        
+          <li class="tag-3"><a href="/tag/welfare/" rel="tag">welfare</a></li>
+        
+          <li class="tag-3"><a href="/tag/tennessee/" rel="tag">Tennessee</a></li>
+        
+        </ul>
+        <h3>Links</h3>
+        <ul>
+        
+          <li><a href="http://gallery.liljenstolpe.org/">Some of my photographs</a></li>
+        
+          <li><a href="http://www.github.com/liljenstolpe">My Github repos</a></li>
+        
+        </ul>
+      </div>
+      <div id="content">
+    
+        <article>
+    <header>
+        <time datetime="2013-04-28">2013-04-28</time>
+        <h1>
+            <a href="/colophon/" rel="bookmark canonical">colophon</a>
+        </h1>
+    </header>
+    <p>I've decided to start blogging again, and looking around at the
+landscape, decided to do a static blog, which is file and text
+driven.  Less things to go wrong, less things to fix.  We'll see how
+it goes.
+Below, I've outlined some of the tech&shy;nolo&shy;gies and packages that I am
+currently using.  I will try to keep this up-to-date as it evolves.</p>
+<h3>Blogging package</h3>
+<p>I'm using <a href="http://posativ.org/acrylamid/">Acrylamid</a> version
+<a href="https://github.com/posativ/acrylamid/">0.72</a>.  I started off using
+<a href="http://octopress.org/">Octopress</a>, and while it was quite flexible
+and had more features than I needed, I am a Python guy (if anything)
+and the Ruby setup was a bit more prob&shy;lem&shy;at&shy;ic than I wanted to deal
+with for a simple blog.</p>
+<h3>Theme</h3>
+<p>The theme in use is an <a href="http://dev.w3.org/html5/spec/">HTML5</a> theme
+called <em>Shadow Play 2</em> from the great folks at
+<a href="http://www.html5webtemplates.co.uk/">HTM&shy;L5webtem&shy;plates</a>.  I've
+modified it a bit to change the footer, changed the style of the
+sidebar links, and changed the logo image.  Those changes can be found
+in my <a href="https://github.com/liljenstolpe/www.asgaard.org/">github
+repository</a> for this
+site.</p>
+<h4>Logo image</h4>
+<p>The picture of the trees used in the header can be found at
+<a href="http://wallpaperscraft.com/wallpaper/wood_black-and-white_from_below_trees_gloomy_kroner_fog_silence_60216">wall&shy;pa&shy;per&shy;scraft.com</a>.</p>
+<h3>Version Control</h3>
+<p>I'm using a public <a href="https://github.com/liljenstolpe/www.asgaard.org/">github
+repository</a> to
+version control this blog.  I display the commit hash used to generate
+the version being served in the footer of the page.</p>
+<h3>Web Server</h3>
+<p>A public <a href="http://aws.amazon.com/s3/">Amazon S3</a> bucket serves all the
+content out.  I followed the recipe that Amazon provides
+<a href="http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html">here</a>.
+However, I do not use <a href="http://aws.amazon.com/route53/">Route53</a>, but
+instead use my own DNS servers.</p>
+    <footer>
+        
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+    
+    
+</div>
+    </div>
+    <div id="content_footer"></div>
+    <footer>
+      
+    
+      
+    
+
+      <p>written by <a href="mailto:blog@cdl.asgaard.org">Christopher Liljenstolpe</a>
+       | <a href="/colophon/">Colophon</a> | Git commit <a
+    href="https://github.com/liljenstolpe/www.asgaard.org/commit/5bc08bd8ce4b617ba1f1c2359f8181744baf782c
+">5bc08bd
+</a></p>
+    </footer>
+  </div>
+</body>
+</html>
