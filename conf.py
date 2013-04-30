@@ -14,6 +14,8 @@ EMAIL = 'blog@cdl.asgaard.org'
 
 DEPLOY_DIR = 's3://www.asgaard.org/'
 
+STATIC = [ 'assets' ]
+
 LANG = 'en'
 DATE_FORMAT = '%Y-%m-%d, %H.%M'
 strptime = '%Y-%m-%d, %H.%M'
