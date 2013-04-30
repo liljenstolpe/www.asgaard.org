@@ -13,7 +13,7 @@ type: page
 
 ### Jabber ###
 
-* [cdl](xmpp:cdl@asgaard.org) on ![asgaard.org](/img/xmpp.png asgaard.org)
+* [cdl (at) asgaard.org](xmpp:cdl@asgaard.org) on ![asgaard.org](/img/xmpp.png asgaard.org)
 * [liljenstolpe](xmpp:liljenstolpe@gmail.com) on ![Google
      Talk](/img/google-talk.png Google  Talk)
 * [liljenstolpe](xmpp:liljenstolpe@jabber.org) on
