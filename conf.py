@@ -51,10 +51,17 @@ DEFAULT_ORPHANS = 3
 
 # Tuples are (name, link)
 BLOGROLL = [
-    ('Some of my photographs', 'http://gallery.liljenstolpe.org/'),
-    ('My Github repos', 'http://www.github.com/liljenstolpe')
+    ('Some of my photographs', 'http://gallery.liljenstolpe.org/')
 ]
 
+SOCIAL = [
+    ('Linkedin', 'http://www.linkedin.com/in/liljenstolpe', '/img/linkedin.png'),
+    ('GitHub', 'http://github.com/liljenstolpe', '/img/github.png'),
+    ('Google+', 'http://plus.google.com/100771440792221683456', '/img/google-plus.png'),
+    ('Twitter', 'http://twitter.com/liljenstolpe', '/img/twitter.png'),
+    ('Facebook', 'http://www.facebook.com/liljenstolpe', '/img/facebook.png')
+]
+    
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 100
 TAG_CLOUD_START_INDEX = 0

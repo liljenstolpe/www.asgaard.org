@@ -57,6 +57,12 @@
           <li><a href="{{ href }}">{{ name }}</a></li>
         {% endfor %}
         </ul>
+	<h3>Social</h3>
+	<ul>
+	{% for name, href, icon in conf.social %}
+	  <li><a href="{{ href }}"><img src="{{ icon }}"> {{ name }}</a></li>
+	{% endfor %}
+	</ul>
       </div>
       <div id="content">
       {%- block content -%}
@@ -71,6 +77,18 @@
        | <a href="/colophon/">Colophon</a> | Git commit <a
     href="https://github.com/liljenstolpe/www.asgaard.org/commit/{{ 
   conf.git_commit }}">{{ conf.git_commit_short }}</a></p>
+    <p><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  rel="copyright" title="All content on this website is licensed under
+  the CC BY-NC-SA 3.0 license, if not otherwise noted."><img
+  src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31
+
+
+
+
+
+
+.png"
+  alt="by-nc-sa" /></a></p>
     </footer>
   </div>
 </body>
