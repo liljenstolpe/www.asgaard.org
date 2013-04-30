@@ -31,4 +31,5 @@ type: page
 ## Telephone ##
 
 * [+1.650.353.9690](tel:+16503539690)
-* [cdl (at) asgaard.org](sip:cdl@asgaard.org) via SIP
+* [cdl (at) asgaard.org](sip:cdl@asgaard.org) via
+  ![SIP](/img/icon_sip.png SIP)
