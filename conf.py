@@ -16,6 +16,7 @@ DEPLOY_DIR = 's3://www.asgaard.org/'
 
 STATIC = [ 'assets' ]
 
+CONTENT_EXTENSION = '.md'
 LANG = 'en'
 DATE_FORMAT = '%Y-%m-%d, %H.%M'
 strptime = '%Y-%m-%d, %H.%M'
