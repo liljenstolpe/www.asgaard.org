@@ -6,6 +6,8 @@
   <meta charset="utf-8" />
   <title>{% block title %}{% endblock %}</title>
   <link media="all" href="{{ env.path + '/shadowplay.css' }}" rel="stylesheet" />
+  <link rel="openid.server" href="http://openid.yubico.com/server.php" />
+  <link rel="openid.delegate" href="http://openid.yubico.com/server.php/idpage?user=ccccccbtvcie" />
   <link href="/favicon.ico" rel="shortcut icon" />
     {% if 'sitemap' in env.views -%}
         <link href="{{ env.views.sitemap.path }}" type="application/xml" title="Sitemap">
