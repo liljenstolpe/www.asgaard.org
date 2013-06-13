@@ -7,12 +7,12 @@ import subprocess
 TITLE = ('Missing the', 'forest')
 
 SITENAME = '(ir)Relevant musings on random topics'
-WWW_ROOT = 'http://asgaard.org/'
+WWW_ROOT = 'http://www.asgaard.org/'
 
 AUTHOR = 'Christopher Liljenstolpe'
 EMAIL = 'blog@cdl.asgaard.org'
 
-DEPLOY_DIR = 's3://asgaard.org/'
+DEPLOY_DIR = 's3://www.asgaard.org/'
 
 STATIC = [ 'assets' ]
 
