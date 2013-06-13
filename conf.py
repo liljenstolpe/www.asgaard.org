@@ -12,7 +12,7 @@ WWW_ROOT = 'http://www.asgaard.org/'
 AUTHOR = 'Christopher Liljenstolpe'
 EMAIL = 'blog@cdl.asgaard.org'
 
-DEPLOY_DIR = 's3://asgaard-www-usw2/'
+DEPLOY_DIR = 's3://www.asgaard.org'
 
 STATIC = [ 'assets' ]
 
