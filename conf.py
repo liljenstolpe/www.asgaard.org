@@ -73,5 +73,5 @@ TAG_CLOUD_SHUFFLE = True
 DEPLOYMENT = {
     "ls": "ls $OUTPUT_DIR",
     "echo": "echo '$OUTPUT_DIR'",
-    "default": "s3cmd sync $OUTPUT_DIR/ $DEPLOY_DIR"
+    "default": "s3cmd sync --delete-removed $OUTPUT_DIR/ $DEPLOY_DIR"
 }
