@@ -349,3 +349,9 @@ table {
 .floatleft {
   float: left;
 }
+p.mib img {
+ display: none;
+}
+p.mib:hover img {
+ display: inline; /* or block */
+}
