@@ -1,7 +1,7 @@
 ---
 title: Acceleration of the tide in unauthorized disclosures
 date: 2013-06-16
-tags: PRISM, government, rights, NUCLEON, NSA, instant communication, "civic life"
+tags: [PRISM, government, rights, NUCLEON, NSA, instant communication, civic life]
 ---
 Over the last few weeks, I've been reflecting on the latest round of
 scandals emanating from Washington D.C.  For those of you who have
