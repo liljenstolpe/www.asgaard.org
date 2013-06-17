@@ -13,6 +13,7 @@ synopsis:
   organizations that have specific political orientations.
 * The NSA was caught with it's hands in multiple cookie jars, multiple
   times
+  
 	  -[Intercepting](http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order)
   _metadata_ on communications in the United States _without_ legal
   oversight.
