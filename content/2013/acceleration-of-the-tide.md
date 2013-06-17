@@ -1,5 +1,5 @@
 ---
-title: Acceleration of the tide in unauthorized disclosures
+title: Unauthorized Disclosures in the Networked Age
 date: 2013-06-16
 tags: [PRISM, government, rights, NUCLEON, NSA, instant communication, civic life]
 ---
@@ -13,14 +13,13 @@ synopsis:
   organizations that have specific political orientations.
 * The NSA was caught with it's hands in multiple cookie jars, multiple
   times
-  
-	  -[Intercepting](http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order)
+  	  - [Intercepting](http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order)
   _metadata_ on communications in the United States _without_ legal
   oversight.
-	  - [Collecting](http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order)
+  	  - [Collecting](http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order)
   data from individuals Internet activities with the assistance of
   major Internet infrastructure and content providers.
-	  - Potentially
+  	  - Potentially
         [Listening](http://news.cnet.com/8301-13578_3-57589495-38/nsa-spying-flap-extends-to-contents-of-u.s-phone-calls/)
         in to domestic phone calls without warrants (although the
         congress-critter who leaked that little gem is now
@@ -121,9 +120,7 @@ Two parting thoughts, both from some men I respect (emphasis is mine):
 > let us save what remains: not by vaults and locks  which fence them
         from the public eye and use in consigning them to the waste of
         time, but by such a multiplication of copies, as shall place
-        them beyond the reach of _accident_. 
-		Thomas Jefferson
+        them beyond the reach of _accident_. --- _Thomas Jefferson_
 
 > The greatest dangers to liberty lurk in insidious encroachment by
-	men of zeal, well meaning but without understanding.
-	Louis D. Brandeis
+	men of zeal, well meaning but without understanding. --- _Louis D. Brandeis_
