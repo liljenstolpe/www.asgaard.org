@@ -115,7 +115,7 @@ first, informed consent is a wonderful thing.
 What am I saying, that is too radical a thought, no one would ever
 actually make that determination on their own.
 
-Two parting thoughts, both from some men I respect (emphasis is mine):
+Two parting thoughts, both from men I respect (emphasis is mine):
 
 > let us save what remains: not by vaults and locks  which fence them
         from the public eye and use in consigning them to the waste of
