@@ -7,7 +7,9 @@ type: page
 
 ## E-mail ##
 
-* blog (at) cdl.asgaard.org
+* blog (at) cdl.asgaard.org  
+My [GPG/PGP](http://www.gpgtools.org) Key GPG can be found [here](cdl/cdl.asc).
+
 
 ## Instant Messaging ##
 
