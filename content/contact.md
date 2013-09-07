@@ -8,7 +8,7 @@ type: page
 ## E-mail ##
 
 * blog (at) cdl.asgaard.org  
-My [GPG/PGP](http://en.wikipedia.org/wiki/Pretty_Good_Privacy) Key GPG can be found [here](../cdl/cdl.asc).
+My [GPG/PGP](http://en.wikipedia.org/wiki/Pretty_Good_Privacy) Key can be found [here](../cdl/cdl.asc).
 
 
 ## Instant Messaging ##
