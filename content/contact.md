@@ -13,8 +13,8 @@ type: page
 
 ### Jabber ###
 
-* [cdl (at) asgaard.org](xmpp:cdl@asgaard.org) on ![asgaard.org](/img/xmpp.png asgaard.org)
-[OTR](http://www.cypherpunks.ca/otr/) Fingerprint: DCE3400A 81D9674E E3935C97 E951D796 70B2F8DD
+* [cdl (at) asgaard.org](xmpp:cdl@asgaard.org) on ![asgaard.org](/img/xmpp.png asgaard.org)  
+[OTR](http://www.cypherpunks.ca/otr/) Fingerprint: DCE3401A 81D9674E E3935C97 E951D796 70B2F8DD
 * [liljenstolpe](xmpp:liljenstolpe@gmail.com) on ![Google
      Talk](/img/google-talk.png Google  Talk)
 * [liljenstolpe](xmpp:liljenstolpe@jabber.org) on
