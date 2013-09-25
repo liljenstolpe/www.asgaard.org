@@ -15,6 +15,7 @@ EMAIL = 'blog@cdl.asgaard.org'
 DEPLOY_DIR = 's3://www.asgaard.org'
 
 STATIC = [ 'assets' ]
+STATIC_FILTER += ['Jinja2']
 
 CONTENT_EXTENSION = '.md'
 LANG = 'en'
