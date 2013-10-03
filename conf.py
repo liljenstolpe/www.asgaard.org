@@ -56,7 +56,7 @@ DEFAULT_ORPHANS = 3
 # Tuples are (name, link)
 BLOGROLL = [
     ('Some of my photographs', 'http://gallery.liljenstolpe.org/'),
-    ('My work--related posts', 'http://www.erebus-consulting.com/')
+    ('My work--related posts @ Erebus Consulting', 'http://www.erebus-consulting.com/')
 ]
 
 SOCIAL = [
