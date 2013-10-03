@@ -27,6 +27,8 @@ strptime = '%Y-%m-%d, %H.%M'
 GIT_COMMIT_SHORT = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'])
 GIT_COMMIT = subprocess.check_output(['git', 'rev-parse', 'HEAD'])
 
+GIT_COMMIT_BASE = 'https://github.com/liljenstolpe/www.asgaard.org/commit'
+
 FILTERS = ['markdown+codehilite(css_class=highlight)', 'hyphenate', 'h1']
 VIEWS = {
     '/': {'filters': 'summarize', 'view': 'index',
