@@ -29,6 +29,9 @@ GIT_COMMIT = subprocess.check_output(['git', 'rev-parse', 'HEAD'])
 
 GIT_COMMIT_BASE = 'https://github.com/liljenstolpe/www.asgaard.org/commit'
 
+CC_TEXT = 'CC BY-NC-SA'
+CC_TERM = 'by-nc-sa'
+
 FILTERS = ['markdown+codehilite(css_class=highlight)', 'hyphenate', 'h1']
 VIEWS = {
     '/': {'filters': 'summarize', 'view': 'index',
