@@ -1,0 +1,3 @@
+#!/bin/sh
+acrylamid compile
+acrylamid deploy
