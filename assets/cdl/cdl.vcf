@@ -1,39 +1,41 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//Mac OS X 10.8.3//EN
+PRODID:-//Apple Inc.//Mac OS X 10.9.1//EN
 N:LILJENSTOLPE;Christopher;;;
 FN:Christopher LILJENSTOLPE
 NICKNAME:李柯睿
 TITLE:Network Heretic
 EMAIL;type=INTERNET;type=HOME;type=pref:cdl@asgaard.org
-EMAIL;type=INTERNET;type=HOME:chris@liljenstolpe.org
 EMAIL;type=INTERNET;type=WORK:cdl@erebus-consulting.com
+EMAIL;type=INTERNET;type=HOME:chris@liljenstolpe.org
 item1.TEL;type=pref:+61385184957
 item1.X-ABLabel:au
-TEL;type=HOME;type=FAX:+1-703-880-6027
-TEL;type=HOME;type=VOICE:+1-703-880-6025
-TEL;type=OTHER;type=VOICE:+1.612.424.7014
 TEL;type=CELL;type=VOICE:+1.415.683.0412
 TEL;type=WORK;type=VOICE:+1.415.520.3549
-item2.ADR;type=HOME;type=pref:;;149 Santa Monica Way;San Francisco;CA;94127-1539;US
-item2.X-ABADR:us
+TEL;type=OTHER;type=VOICE:+1.612.424.7014
+TEL;type=HOME;type=VOICE:+1-703-880-6025
+TEL;type=HOME;type=FAX:+1 (703) 880-6027
+item2.TEL:+1.604.379.0768
+item2.X-ABLabel:ca
+item3.ADR;type=HOME;type=pref:;;149 Santa Monica Way;San Francisco;CA;94127-1539;US
+item3.X-ABADR:us
 BDAY:1968-06-01
 X-AIM;type=HOME;type=pref:cdlilj
-X-AIM;type=WORK:116591
+X-AIM;type=HOME:116591
 X-JABBER;type=HOME;type=pref:liljenstolpe@gmail.com
 X-JABBER;type=HOME:cdl@jabber.asgaard.org
+X-JABBER;type=HOME:cdl@asgaard.org
 X-MSN;type=HOME;type=pref:liljenstolpe@passport.com
 X-YAHOO;type=HOME;type=pref:cliljenstolpe
-X-YAHOO;type=HOME:cdl@asgaard.org
 X-ICQ;type=HOME;type=pref:116591
 IMPP;X-SERVICE-TYPE=AIM;type=HOME;type=pref:aim:cdlilj
-IMPP;X-SERVICE-TYPE=AIM;type=WORK:aim:116591
+IMPP;X-SERVICE-TYPE=AIM;type=HOME:aim:116591
 IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:liljenstolpe@gmail.com
 IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:cdl@jabber.asgaard.org
 IMPP;X-SERVICE-TYPE=MSN;type=HOME:msnim:liljenstolpe@passport.com
 IMPP;X-SERVICE-TYPE=Yahoo;type=HOME:ymsgr:cliljenstolpe
-IMPP;X-SERVICE-TYPE=Yahoo;type=HOME:ymsgr:cdl@asgaard.org
 IMPP;X-SERVICE-TYPE=ICQ;type=HOME:aim:116591
+IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:cdl@asgaard.org
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4hrESUNDX1BST0ZJTEUA
  AQEAABq0YXBwbAIQAABtbnRyUkdCIFhZWiAH3AAGAAUAFQAyABFhY3NwQVBQTAAAAAAAAAAAAA
  AAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWFwcGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -322,6 +324,6 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4hrESUNDX1BST0ZJTEUA
  5snqSahzuOT1Nd1OmoHz1fEOs79CxG+04PUVZWTaoMfUiqyDaqn1FMkk8uJn9eK2ic0ja8O3RN
  +ZG6/drRu7vbM6/wB6sHQR5EAb1Oat3d15j81RJ+pf/BpTdGb/AIKOeNUPRfhvff8Ap00qv6IK
  /nY/4NHmz/wUi8bD/qmt9/6dNKr+ieguIUUUUDP/2Q==
-UID:fc8f920b-f592-4dce-b7b5-2811be11962b
-X-ABUID:FC8F920B-F592-4DCE-B7B5-2811BE11962B:ABPerson
+UID:f16244c7-80d8-4d97-939c-54980e1ccbd9
+X-ABUID:E5A9BE42-413A-48DC-BE81-69776413F528:ABPerson
 END:VCARD
