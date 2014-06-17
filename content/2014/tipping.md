@@ -1,6 +1,8 @@
 ---
 title: Tipping
-subtitle: Reward or salary?
+description: Reward or salary?
+tags:
+[minimum wage, tipping, service industry, Seattle, San Francisco, restaurants, living wage]
 date: 2014-06-17, 10.05
 ---
 I was struck by commentary around the discussion about a potential increase in
