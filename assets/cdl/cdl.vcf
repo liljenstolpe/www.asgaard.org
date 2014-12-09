@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//Mac OS X 10.9.3//EN
+PRODID:-//Apple Inc.//Mac OS X 10.9.5//EN
 N:LILJENSTOLPE;Christopher;;;
 FN:Christopher LILJENSTOLPE
 NICKNAME:李柯睿
@@ -21,7 +21,7 @@ item3.TEL:+1.415.520.3549
 item3.X-ABLabel:Erebus Consulting
 item4.ADR;type=HOME;type=pref:;;149 Santa Monica Way;San Francisco;CA;94127-1539;US
 item4.X-ABADR:us
-ADR;type=WORK:;San Francisco\, CA \n94012\nUS;201 Portero Ave;;;;
+ADR;type=WORK:;;201 Portero Ave;San Francisco;CA;94103;US
 BDAY:1968-06-01
 X-AIM;type=HOME;type=pref:cdlilj
 X-AIM;type=HOME:116591
