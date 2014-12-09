@@ -1,24 +1,27 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//Mac OS X 10.9.1//EN
+PRODID:-//Apple Inc.//Mac OS X 10.9.5//EN
 N:LILJENSTOLPE;Christopher;;;
 FN:Christopher LILJENSTOLPE
 NICKNAME:李柯睿
-TITLE:Network Heretic
+ORG:Metaswitch Networks;
+TITLE:Director\, Solutions Architecture
 EMAIL;type=INTERNET;type=HOME;type=pref:cdl@asgaard.org
 EMAIL;type=INTERNET;type=WORK:cdl@erebus-consulting.com
 EMAIL;type=INTERNET;type=HOME:chris@liljenstolpe.org
+EMAIL;type=INTERNET;type=WORK:cl3@metaswitch.com
 item1.TEL;type=pref:+61385184957
 item1.X-ABLabel:au
 TEL;type=CELL;type=VOICE:+1.415.683.0412
-TEL;type=WORK;type=VOICE:+1.415.520.3549
-TEL;type=OTHER;type=VOICE:+1.612.424.7014
 TEL;type=HOME;type=VOICE:+1-703-880-6025
 TEL;type=HOME;type=FAX:+1 (703) 880-6027
-item2.TEL:+1.604.379.0768
-item2.X-ABLabel:ca
-item3.ADR;type=HOME;type=pref:;;149 Santa Monica Way;San Francisco;CA;94127-1539;US
-item3.X-ABADR:us
+item2.TEL:+44.7538.042.255
+item2.X-ABLabel:uk-sim
+item3.TEL:+1.415.520.3549
+item3.X-ABLabel:Erebus Consulting
+item4.ADR;type=HOME;type=pref:;;149 Santa Monica Way;San Francisco;CA;94127-1539;US
+item4.X-ABADR:us
+ADR;type=WORK:;;201 Portero Ave;San Francisco;CA;94103;US
 BDAY:1968-06-01
 X-AIM;type=HOME;type=pref:cdlilj
 X-AIM;type=HOME:116591
@@ -32,10 +35,11 @@ IMPP;X-SERVICE-TYPE=AIM;type=HOME;type=pref:aim:cdlilj
 IMPP;X-SERVICE-TYPE=AIM;type=HOME:aim:116591
 IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:liljenstolpe@gmail.com
 IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:cdl@jabber.asgaard.org
+IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:cdl@asgaard.org
 IMPP;X-SERVICE-TYPE=MSN;type=HOME:msnim:liljenstolpe@passport.com
 IMPP;X-SERVICE-TYPE=Yahoo;type=HOME:ymsgr:cliljenstolpe
 IMPP;X-SERVICE-TYPE=ICQ;type=HOME:aim:116591
-IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:cdl@asgaard.org
+IMPP;X-SERVICE-TYPE=Skype:skype:cliljenstolpe
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4hrESUNDX1BST0ZJTEUA
  AQEAABq0YXBwbAIQAABtbnRyUkdCIFhZWiAH3AAGAAUAFQAyABFhY3NwQVBQTAAAAAAAAAAAAA
  AAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWFwcGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
