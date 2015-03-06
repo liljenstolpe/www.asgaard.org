@@ -15,10 +15,10 @@ item1.X-ABLabel:au
 TEL;type=CELL;type=VOICE:+1.415.683.0412
 TEL;type=HOME;type=VOICE:+1-703-880-6025
 TEL;type=HOME;type=FAX:+1 (703) 880-6027
-item2.TEL:+44.7538.042.255
-item2.X-ABLabel:uk-sim
-item3.TEL:+1.415.520.3549
-item3.X-ABLabel:Erebus Consulting
+item2.TEL:+1.415.520.3549
+item2.X-ABLabel:Erebus Consulting
+item3.TEL:+44 7441 90 00 48
+item3.X-ABLabel:uk-mobile
 item4.ADR;type=HOME;type=pref:;;149 Santa Monica Way;San Francisco;CA;94127-1539;US
 item4.X-ABADR:us
 ADR;type=WORK:;;201 Portero Ave;San Francisco;CA;94103;US
@@ -30,7 +30,6 @@ X-JABBER;type=HOME:cdl@jabber.asgaard.org
 X-JABBER;type=HOME:cdl@asgaard.org
 X-MSN;type=HOME;type=pref:liljenstolpe@passport.com
 X-YAHOO;type=HOME;type=pref:cliljenstolpe
-X-ICQ;type=HOME;type=pref:116591
 IMPP;X-SERVICE-TYPE=AIM;type=HOME;type=pref:aim:cdlilj
 IMPP;X-SERVICE-TYPE=AIM;type=HOME:aim:116591
 IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:liljenstolpe@gmail.com
@@ -38,8 +37,7 @@ IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:cdl@jabber.asgaard.org
 IMPP;X-SERVICE-TYPE=Jabber;type=HOME:xmpp:cdl@asgaard.org
 IMPP;X-SERVICE-TYPE=MSN;type=HOME:msnim:liljenstolpe@passport.com
 IMPP;X-SERVICE-TYPE=Yahoo;type=HOME:ymsgr:cliljenstolpe
-IMPP;X-SERVICE-TYPE=ICQ;type=HOME:aim:116591
-IMPP;X-SERVICE-TYPE=Skype:skype:cliljenstolpe
+IMPP;X-SERVICE-TYPE=Skype;type=HOME:skype:cliljenstolpe
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4hrESUNDX1BST0ZJTEUA
  AQEAABq0YXBwbAIQAABtbnRyUkdCIFhZWiAH3AAGAAUAFQAyABFhY3NwQVBQTAAAAAAAAAAAAA
  AAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWFwcGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -329,5 +327,5 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4hrESUNDX1BST0ZJTEUA
  +ZG6/drRu7vbM6/wB6sHQR5EAb1Oat3d15j81RJ+pf/BpTdGb/AIKOeNUPRfhvff8Ap00qv6IK
  /nY/4NHmz/wUi8bD/qmt9/6dNKr+ieguIUUUUDP/2Q==
 UID:f16244c7-80d8-4d97-939c-54980e1ccbd9
-X-ABUID:E5A9BE42-413A-48DC-BE81-69776413F528:ABPerson
+X-ABUID:E5216050-923B-4622-BD0D-DEB186DBEAE5:ABPerson
 END:VCARD
