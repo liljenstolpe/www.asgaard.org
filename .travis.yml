@@ -1,6 +1,10 @@
 # Acrylamid install for www.asgaard.org
 language: python
 
+notifications:
+  email:
+    - $EMAIL_ADDR
+
 install:
 
     - wget -O- -q http://s3tools.org/repo/deb-all/stable/s3tools.key | sudo apt-key add -
@@ -13,6 +17,3 @@ script:
     - acrylamid compile
     - acrylamid deploy
     
-notifications:
-  email:
-    - $EMAIL_ADDR
