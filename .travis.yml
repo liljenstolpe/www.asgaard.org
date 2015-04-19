@@ -10,7 +10,7 @@ install:
     - travis_retry git clone https://github.com/s3tools/s3cmd.git
     - travis_retry cd s3cmd
     - travis_retry sudo python setup.py install
-    - travis_retry easy_install -U acrylamid=0.7.8c
+    - travis_retry easy_install -U acrylamid=0.7.8
 
 script:
     - acrylamid compile
