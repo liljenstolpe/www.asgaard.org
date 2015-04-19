@@ -7,6 +7,8 @@ branches:
     
 notifications:
   email:
+    recipients:
+      - travis-ci@cdl.asgaard.org
     on_success: always
     on_failure: always
 
