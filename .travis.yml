@@ -1,0 +1,11 @@
+# Acrylamid install for www.asgaard.org
+language: python
+
+install:
+
+    - travis_retry easy_install -U acrylamid
+
+script:
+    - acrylamid compile
+    - acrylamid deploy
+    
