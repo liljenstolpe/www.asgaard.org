@@ -9,3 +9,6 @@ script:
     - acrylamid compile
     - acrylamid deploy
     
+notifications:
+  email:
+    - $EMAIL_ADDR
