@@ -1,6 +1,10 @@
 # Acrylamid install for www.asgaard.org
 language: python
 
+branches:
+  only:
+    - master
+    
 notifications:
   email:
     - $EMAIL_ADDR
