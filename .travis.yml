@@ -7,10 +7,9 @@ notifications:
 
 install:
 
-    - travis_retry wget -O- -q http://s3tools.org/repo/deb-all/stable/s3tools.key | sudo apt-key add -
-    - travis_retry sudo wget -O/etc/apt/sources.list.d/s3tools.list http://s3tools.org/repo/deb-all/stable/s3tools.list
-    - travis_retry sudo apt-get update
-    - travis_retry sudo apt-get install s3cmd
+    - travis_retry git clone https://github.com/s3tools/s3cmd.git
+    - travis_retry cd s3cmd
+    - travis_retry sydo python setup.py install
     - travis_retry easy_install -U acrylamid
 
 script:
