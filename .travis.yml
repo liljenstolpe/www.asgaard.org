@@ -3,6 +3,7 @@ language: python
 
 install:
 
+    - apt-get install s3cmd
     - travis_retry easy_install -U acrylamid
 
 script:
