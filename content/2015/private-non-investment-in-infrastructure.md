@@ -60,5 +60,43 @@ they can ask their customers to fund the company's mismanagement?  One
 word --- monopoly.  The customer *can't* take their business elsewhere,
 they are captive.
 
+The reason for this disparate behavior is simple.  In a non--monopoly
+company the loss of a customer is a direct hit to the bottom line.  It
+is much more expensive to acquire a new customer than to keep an
+existing one.  If a company shed lots of customers because they asked
+those same customers to fund the management's failure, the
+shareholders would be the one that suffered and would probably loose
+more money than what they would loose if the company paid to fix their
+iatrongenic problem.
 
+On the other hand, since the customers of the monopoly company are
+captive, they can't be "lost."  Therefore, the costs to the
+shareholders of asking those customers to fund the mismanagement,
+there is no cost, whereas the company just "manning up" and paying to
+fix its problem would have an impact to the bottom line, and therefore
+the shareholders.  Actually, the situation is worse.  Because there
+are no (or little) consequences to the company (and therefore the
+shareholders) for the mismanagement, there is even an incentive to
+mismanage that long--term maintenance investment, not grossly, but
+things like *delayed maintenance* or *value engineering* become,
+potentially, more prevalent.
+
+So, how do we fix this?  It's not easy, or we already would have done
+so.  But, in short, we should enforce rules for regulated monopolies
+that basically state that they carry the something approximating
+unlimited liability for a
+service if they use that service as a justification for a rate model.
+If it then becomes obvious that they are not, or have not, performed,
+the company should remedy the situation without recourse to the rate
+payers.  If they are found to be incompetent in doing so, then the
+regulator should find a provider who can rectify the deficiency(s)
+with the cost being born by the company that collected the revenues to
+provide that service.
+
+This would more closely align the shareholder with the customer, and
+enforce the drive for competent management of these critical and
+capital intensive infrastructures.  Remember, this is really only
+relevant for monopoly services.  if the customer can *realistically*
+obtain the service from other providers, then this may not be
+necessary, as commercial pressure should force the company to perform.
 
