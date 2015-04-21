@@ -1,7 +1,6 @@
 ---
 title: Private (non) investment in monopoly infrastructure
-tags:
-  [civic life, infrastructure, tax policy, investment, monopolies, nuclear energy, PG&E]
+tags: [civic life, infrastructure, tax policy, investment, monopolies, nuclear energy, PG&E]
 date: 2015-04-21, 10.50
 ---
 A few news items over the last week conspired to inspire me to vent.
