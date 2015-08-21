@@ -1,25 +1,20 @@
-# Acrylamid install for www.asgaard.org
 language: python
-
 branches:
   only:
-    - master
-    
+  - master
 notifications:
   email:
     recipients:
-      - travis-ci@cdl.asgaard.org
+    - travis-ci@cdl.asgaard.org
     on_success: always
     on_failure: always
-
+  slack:
+    secure: aLCFi+guVC9eYeH/23i+2ansUlYIHctYaiLZPHWM3gOc0mrRGJC/LaFJXkMIlznUFZ9hmTsbMl0ldhynGliYW4+ngrs6vCQQpURvcCQXlBnloEYa74orAKHugz9c0mAcPDpo7Q88LmIg1rlXFcXyyhvS/BUKCooFJp/H0cx38yQ=
 install:
-
-    - travis_retry git clone https://github.com/s3tools/s3cmd.git
-    - travis_retry cd s3cmd
-    - travis_retry sudo python setup.py install
-    - travis_retry easy_install -U acrylamid
-
+- travis_retry git clone https://github.com/s3tools/s3cmd.git
+- travis_retry cd s3cmd
+- travis_retry sudo python setup.py install
+- travis_retry easy_install -U acrylamid
 script:
-    - acrylamid compile
-    - acrylamid deploy
-    
+- acrylamid compile
+- acrylamid deploy
