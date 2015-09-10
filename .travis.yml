@@ -15,6 +15,7 @@ install:
 - travis_retry pip install --upgrade pip
 - travis_retry pip install s3cmd
 - travis_retry pip install acrylamid
+- travis_retry pip install smartypants
 script:
 - acrylamid compile
 - acrylamid deploy
