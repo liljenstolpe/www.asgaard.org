@@ -12,7 +12,8 @@ notifications:
   slack:
     secure: aLCFi+guVC9eYeH/23i+2ansUlYIHctYaiLZPHWM3gOc0mrRGJC/LaFJXkMIlznUFZ9hmTsbMl0ldhynGliYW4+ngrs6vCQQpURvcCQXlBnloEYa74orAKHugz9c0mAcPDpo7Q88LmIg1rlXFcXyyhvS/BUKCooFJp/H0cx38yQ=
 install:
-- travis_retry easy_install -U acrylamid
+- travis_retry pip install s3tools
+- travis_retry pip install acrylamid
 addons:
   apt:
     sources:
