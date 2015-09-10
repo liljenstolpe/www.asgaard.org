@@ -15,6 +15,7 @@ install:
 - travis_retry cd s3cmd
 - travis_retry sudo python setup.py install
 - travis_retry easy_install -U acrylamid
+- travis_retry easy_install -U smartypants
 script:
 - acrylamid compile
 - acrylamid deploy
