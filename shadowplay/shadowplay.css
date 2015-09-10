@@ -342,9 +342,9 @@ table {
   vertical-align: baseline;
 }
 
-.floatright {
+.disqus {
   float: right;
-  padding: 5px 0px 5px 10px;
+  padding: 5px 0px 5px 30px;
 }
 
 .floatleft {
