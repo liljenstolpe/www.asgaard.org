@@ -15,6 +15,5 @@ install:
 - travis_retry pip install --upgrade pip
 - travis_retry pip install s3cmd
 - travis_retry pip install acrylamid
-script:
-- acrylamid compile
+:- acrylamid compile
 - acrylamid deploy
