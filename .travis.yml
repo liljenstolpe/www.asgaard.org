@@ -15,6 +15,8 @@ install:
 - travis_retry easy_install -U acrylamid
 addons:
   apt:
+    sources:
+    - s3tools
     packages:
     - s3cmd
 script:
